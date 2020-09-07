@@ -1,6 +1,6 @@
 # Supervised-Machine-Learning-Project
-Training and testing Loan Data with Machine Learning Models for classification.
-We have used Multiple Classification models:
+Classification Modelings in Loan Dataset.
+We have used following Classification models to classify the customers paid their their loan timely and the defaulters:
 1.K Nearest Neighbor(KNN)
 2.Decision Tree
 3.Support Vector Machine
